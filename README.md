@@ -2,7 +2,7 @@
 
 Reference Code for paper "Nontarget Screening and Health Risk of Hazardous Volatile and Semivolatile Organic Compounds in Premade Food Using a Molecular Network Assisted Data Collation Workflow"
 
-10.1021/envhealth.5c00515
+doi: 10.1021/envhealth.5c00515
 
 chemical information collection and molecular network plot
 
